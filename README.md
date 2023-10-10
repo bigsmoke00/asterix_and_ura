@@ -18,6 +18,10 @@ Este repositório contém um guia passo a passo e um script de exemplo para inte
 
 ![image](https://github.com/bigsmoke00/asterix_and_ura/assets/91279736/64a52a5c-8313-403a-b45f-0ae468150b8a)
 
+## Aplicando configuração de ramal
+
+![image](https://github.com/bigsmoke00/asterix_and_ura/assets/91279736/7a92f38a-e048-4072-84a4-97b96aba7a76)
+
 ## Pacotes Necessarios 
 
 ### 1. Instalação de pacotes basicos
