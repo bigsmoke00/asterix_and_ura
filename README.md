@@ -100,13 +100,13 @@ exit(0);
 ?>
 ```
 
-### 3. Configurando Permissões
+### 6. Configurando Permissões
 ```bash
 chmod 700 /var/lib/asterisk/agi-bin/checkmatricula.agi
 chown asterisk:asterisk /var/lib/asterisk/agi-bin/checkmatricula.agi
 ```
 
-### 6. Exten para testar incluída no from-internal
+### 7. Exten para testar incluída no from-internal
 
 ```bash
 nano /etc/asterisk/extensions_custom.conf
