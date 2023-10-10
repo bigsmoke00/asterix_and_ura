@@ -1,4 +1,4 @@
-# Integração de URA com Asterisk usando a API da Google para AGI
+# Integração de URA com Asterisk usando a API da googleTTS
 
 Este repositório contém um guia passo a passo e um script de exemplo para integrar um sistema de Resposta Audível Interativa (URA) com o Asterisk, aproveitando a poderosa API da googleTTS.
 
