@@ -71,7 +71,7 @@ include('phpagi.php');
 
 $matricula = $argv[1];
 $agi = new AGI();
-$db = mysqli_connect("127.0.0.1", "root", "toor", "tts");
+$db = mysqli_connect("127.0.0.1", "root", "root", "tts");
 
 
 if( ! $db ){
@@ -111,6 +111,8 @@ chown asterisk:asterisk /var/lib/asterisk/agi-bin/checkmatricula.agi
 ```bash
 nano /etc/asterisk/extensions_custom.conf
 ```
+
+### 8. Configturação para a URA ficar no ramal 5000 e realizar consultas ao database.
 
 ```bash
 exten => 5000,1,Verbose(Testando Google TTS);
