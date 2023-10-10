@@ -13,6 +13,11 @@ Este repositório contém um guia passo a passo e um script de exemplo para inte
 
 ![image](https://github.com/bigsmoke00/asterix_and_ura/assets/91279736/e06afd04-7e9e-43d3-b19f-700567390fe6)
 
+
+## Definindo senha
+
+![image](https://github.com/bigsmoke00/asterix_and_ura/assets/91279736/64a52a5c-8313-403a-b45f-0ae468150b8a)
+
 ## Pacotes Necessarios 
 
 ### 1. Instalação de pacotes basicos
