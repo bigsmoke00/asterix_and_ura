@@ -2,11 +2,44 @@
 
 Este repositório contém um guia passo a passo e um script de exemplo para integrar um sistema de Resposta Audível Interativa (URA) com o Asterisk, aproveitando a poderosa API da googleTTS.
 
+## Asterisk
+
+O Asterisk é uma plataforma de código aberto para comunicações, especialmente conhecida por suas capacidades de PBX (Private Branch Exchange). Desenvolvido pela Digium (agora parte da Sangoma Technologies), o Asterisk oferece uma infraestrutura flexível para construir sistemas de telefonia e comunicação.
+
+## Principais características do Asterisk:
+
+- Código Aberto: Como software de código aberto, o Asterisk permite que desenvolvedores e empresas personalizem e adaptem suas funcionalidades conforme necessário.
+
+- Suporte a Protocolos: Integra-se a uma variedade de protocolos de comunicação, incluindo SIP (Session Initiation Protocol), IAX (Inter-Asterisk eXchange), H.323, entre outros.
+
+- Recursos Avançados: Oferece uma gama de recursos avançados, como voicemail, IVR (Interactive Voice Response), conferência, chamadas em espera e muito mais.
+
+- Flexibilidade e Escalabilidade: Pode ser implementado em ambientes diversos, desde pequenas empresas até grandes corporações, e sua flexibilidade permite a construção de sistemas de telefonia altamente personalizados.
+
+
+## Issabel
+
+Issabel é uma distribuição de software PBX baseada no Asterisk, projetada para simplificar a implementação e gerenciamento de sistemas de telefonia. Ela integra diversas ferramentas e módulos em uma interface única, proporcionando uma solução abrangente para as necessidades de comunicação das organizações.
+
+## Principais características do Issabel:
+
+- Interface Gráfica Intuitiva: Oferece uma interface de usuário amigável, permitindo a administração e configuração do PBX por meio de um painel gráfico.
+
+- Módulos Integrados: Vem com uma variedade de módulos integrados, incluindo relatórios, monitoramento em tempo real, configuração de trunk SIP, entre outros.
+
+- Recursos Avançados: Incorpora recursos avançados do Asterisk, permitindo a implementação de IVR, gravação de chamadas, conferências, e muito mais.
+
+- Colaboração e Integração: Suporta integração com aplicativos de colaboração, como email e CRM (Customer Relationship Management), melhorando a eficiência nas comunicações empresariais.
+
+- Segurança: Oferece recursos de segurança, como controle de acesso, autenticação e criptografia para proteger as comunicações.
+
 ## Pré-requisitos
 
 - Um servidor Asterisk com Issabel funcional.
 - Configuração do Banco de dados (nesse tutorial foi usado o MariaDB).
 - Script em .php para a integração da URA com a API googletts.
+
+Ao combinar a robustez do Asterisk com a facilidade de uso do Issabel, as organizações podem implantar sistemas de telefonia eficientes e escaláveis, adaptados às suas necessidades específicas. Essas soluções desempenham um papel crucial na modernização das comunicações empresariais, proporcionando flexibilidade, economia de custos e uma variedade de recursos avançados.
 
 
 ## Criando ramal 3000
