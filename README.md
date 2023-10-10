@@ -34,15 +34,13 @@ Issabel é uma distribuição de software PBX baseada no Asterisk, projetada par
 - Segurança: Oferece recursos de segurança, como controle de acesso, autenticação e criptografia para proteger as comunicações.
 
 
-
+Ao combinar a robustez do Asterisk com a facilidade de uso do Issabel, as organizações podem implantar sistemas de telefonia eficientes e escaláveis, adaptados às suas necessidades específicas. Essas soluções desempenham um papel crucial na modernização das comunicações empresariais, proporcionando flexibilidade, economia de custos e uma variedade de recursos avançados.
 
 ## Pré-requisitos
 
 - Um servidor Asterisk com Issabel funcional.
 - Configuração do Banco de dados (nesse tutorial foi usado o MariaDB).
 - Script em .php para a integração da URA com a API googletts.
-
-Ao combinar a robustez do Asterisk com a facilidade de uso do Issabel, as organizações podem implantar sistemas de telefonia eficientes e escaláveis, adaptados às suas necessidades específicas. Essas soluções desempenham um papel crucial na modernização das comunicações empresariais, proporcionando flexibilidade, economia de custos e uma variedade de recursos avançados.
 
 
 ## Criando ramal 3000
