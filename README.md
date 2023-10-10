@@ -8,6 +8,11 @@ Este repositório contém um guia passo a passo e um script de exemplo para inte
 - Configuração do Banco de dados (nesse tutorial foi usado o MariaDB).
 - Script em .php para a integração da URA com a API googletts.
 
+
+## Criando ramal 3000
+
+![image](https://github.com/bigsmoke00/asterix_and_ura/assets/91279736/e06afd04-7e9e-43d3-b19f-700567390fe6)
+
 ## Pacotes Necessarios 
 
 ### 1. Instalação de pacotes basicos
