@@ -67,7 +67,7 @@ yum install perl-libwww-perl perl-IO-Socket-SSL perl-LWP-Protocol-https mpg123 g
 
 ```bash
 cd /root
-git clone git://github.com/zaf/asterisk-googletts
+https://github.com/zaf/asterisk-googletts.git
 cp asterisk-googletts/googletts.agi /var/lib/asterisk/agi-bin/
 cd /var/lib/asterisk/agi-bin/
 ```
